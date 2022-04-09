@@ -8,7 +8,7 @@ Create a countdown for a music festival demonstrating how many days are left til
 
 
 
-![Countdown](https://github.com/barcelo2/Tabs/blob/main/tabs/Screenshot%202022-04-06%20at%2016.44.29.png)
+![Countdown](https://github.com/barcelo2/Rockfest-Countdown/blob/main/Rockfest%20Countdown/Screenshot%202022-04-09%20at%2020.13.40.png)
 
 
 
